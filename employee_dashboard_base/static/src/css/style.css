@@ -1,0 +1,45 @@
+.clickMe {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.dash_title{
+    text-align: center;
+    font-weight: bold;
+    font-family: arial;
+    margin-top: 33px;
+}
+
+#toto{
+    width:90%;
+    margin-top:30px;
+}
+
+#toto tr:nth-child(even){background-color: #f2f2f2;}
+
+#toto tr:hover {
+    background-color: #ddd;
+    text-align: center;
+    }
+
+#toto tr {
+    text-align: center;
+    height: 30px;
+    font-weight: bold;
+    }
+
+#toto th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+}

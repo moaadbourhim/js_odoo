@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+        <template xml:space="preserve">
+            <t t-name="Dashboard">
+                <div class="container">
+                    <div class="raw">
+                        <h1 class="dash_title">Dashboard</h1>
+                        <br/>
+                            <button class="clickMe">Get All users</button>
+                        <p></p>
+                        <table id="toto">
+<!--                          <tr>-->
+<!--                            <th>Company</th>-->
+<!--                            <th>Contact</th>-->
+<!--                            <th>Country</th>-->
+<!--                          </tr>-->
+                          <tr>
+<!--                            <td>Alfreds Futterkiste</td>-->
+<!--                            <td>Maria Anders</td>-->
+<!--                            <td>Germany</td>-->
+                          </tr>
+
+<!--                          <tr>-->
+<!--                            <td>Paris spécialités</td>-->
+<!--                            <td>Marie Bertrand</td>-->
+<!--                            <td>France</td>-->
+<!--                          </tr>-->
+                        </table>
+                    </div>
+                </div>
+            </t>
+        </template>
