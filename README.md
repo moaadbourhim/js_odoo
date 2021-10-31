@@ -2,4 +2,4 @@
 test js in odoo
 
 
-add this
+add this ok
